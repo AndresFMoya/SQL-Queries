@@ -4,7 +4,7 @@ This project consist of Testing the domain of SQL queries by requesting them to 
 
 [SQL Zoo](https://sqlzoo.net/wiki/SQL_Tutorial) is one of the few resources online that actually lets you build and run queries against existing tables. Each tutorial will show you a table and then have you run queries against it to answer specific questions. 
 
-###  The tutorial are as follows
+###  The tutorials are as follows
 ```
 1. SELECT Basics
 2. SELECT FROM World
