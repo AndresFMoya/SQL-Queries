@@ -1,6 +1,6 @@
 # SQL Queries
 
-This project consist of Testing the domain of SQL queries by requesting them to retrieve and organize different pieces of data from a table from SQL Zoo. This is the first project of the main `Databases` Curriculum at Microverse.
+This project consist of Testing the domain of SQL queries by requesting them to retrieve and organize different pieces of data from a table from SQL Zoo.
 
 [SQL Zoo](https://sqlzoo.net/wiki/SQL_Tutorial) is one of the few resources online that actually lets you build and run queries against existing tables. Each tutorial will show you a table and then have you run queries against it to answer specific questions. 
 
